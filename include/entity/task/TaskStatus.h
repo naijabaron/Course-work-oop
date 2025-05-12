@@ -1,0 +1,6 @@
+#ifndef TASKSTATUS_H
+#define TASKSTATUS_H
+
+enum class TaskStatus { PENDING, IN_PROGRESS, COMPLETED, ARCHIVED };
+
+#endif //TASKSTATUS_H
